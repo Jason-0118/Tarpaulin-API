@@ -1,0 +1,50 @@
+[
+    {
+        "_id": "dd01d815684ac9ff60836ca7",
+        "courseId": "7ebb3ac5153139bd18bc291f",
+        "title": "CS492 - Assignment 1",
+        "points": 100,
+        "due": "2022-06-14T17:00:00-07:00",
+        "submissions": []
+    },
+    {
+        "_id": "22ef71b03a8f3d47154383b3",
+        "courseId": "7ebb3ac5153139bd18bc291f",
+        "title": "CS492 - Assignment 2",
+        "points": 100,
+        "due": "2022-06-21T17:00:00-07:00",
+        "submissions": []
+    },
+    {
+        "_id": "efbf659dfe997852f374a237",
+        "courseId": "64adc4faa065153559044a94",
+        "title": "CS493 - Assignment 1",
+        "points": 100,
+        "due": "2022-06-14T17:00:00-07:00",
+        "submissions": []
+    },
+    {
+        "_id": "36b8be85328d97e2a1f5f8eb",
+        "courseId": "64adc4faa065153559044a94",
+        "title": "CS493 - Assignment 2",
+        "points": 100,
+        "due": "2022-06-21T17:00:00-07:00",
+        "submissions": []
+    },
+    {
+        "_id": "460b5e3d655a11410a9167e7",
+        "courseId": "6be6399d7aa8de39dd5e98c8",
+        "title": "CS494 - Assignment 1",
+        "points": 100,
+        "due": "2022-06-14T17:00:00-07:00",
+        "submissions": []
+    },
+    {
+        "_id": "25340f367051883862c3340c",
+        "courseId": "6be6399d7aa8de39dd5e98c8",
+        "title": "CS494 - Assignment 2",
+        "points": 100,
+        "due": "2022-06-21T17:00:00-07:00",
+        "submissions": []
+    }
+]

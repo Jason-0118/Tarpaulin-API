@@ -1,0 +1,44 @@
+[
+    {
+        "_id": "7ebb3ac5153139bd18bc291f",
+        "subject": "CS",
+        "number": "492",
+        "title": "Mobile Application Development",
+        "term": "f24",
+        "instructorId": "07d3062af7341cad2a478950",
+        "studentIds": [
+            "447d2f766c1fb22623d4e993",
+            "4e1797f6f424796ae0236b62",
+            "59bdffa3fef27558ac200598",
+            "2ae4ab12ca8a1d447dbd625e"
+        ]
+    },
+    {
+        "_id": "64adc4faa065153559044a94",
+        "subject": "CS",
+        "number": "493",
+        "title": "Cloud Application Development",
+        "term": "w24",
+        "instructorId": "baa85645e42c4589994810b4",
+        "studentIds": [
+            "447d2f766c1fb22623d4e993",
+            "4e1797f6f424796ae0236b62",
+            "59bdffa3fef27558ac200598",
+            "2ae4ab12ca8a1d447dbd625e"
+        ]
+    },
+    {
+        "_id": "6be6399d7aa8de39dd5e98c8",
+        "subject": "CS",
+        "number": "494",
+        "title": "Advanced Web Development",
+        "term": "sp24",
+        "instructorId": "f1e6a809eadcbcfeadef3c5d",
+        "studentIds": [
+            "447d2f766c1fb22623d4e993",
+            "4e1797f6f424796ae0236b62",
+            "59bdffa3fef27558ac200598",
+            "2ae4ab12ca8a1d447dbd625e"
+        ]
+    }
+]

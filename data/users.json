@@ -1,0 +1,148 @@
+[
+    {
+        "_id": "07d3062af7341cad2a478950",
+        "name": "Nick Arzner",
+        "email": "nick@block15.com",
+        "password": "cloud8",
+        "role": "instructor"
+    },
+    {
+        "_id": "baa85645e42c4589994810b4",
+        "name": "Tori Lockwood",
+        "email": "tori@robnetts.com",
+        "password": "cloud8",
+        "role": "instructor"
+    },
+    {
+        "_id": "f1e6a809eadcbcfeadef3c5d",
+        "name": "Brittani Lipscomb",
+        "email": "geeks@gamagorageekhouse.com",
+        "password": "cloud8",
+        "role": "instructor"
+    },
+    {
+        "_id": "102d186d8de0735053490243",
+        "name": "Philip Geroge",
+        "email": "owners@firstalt.coop",
+        "password": "cloud8",
+        "role": "instructor"
+    },
+    {
+        "_id": "447d2f766c1fb22623d4e993",
+        "name": "Kim Marchesi",
+        "email": "kim@localboyzhawaiiancafe.com",
+        "password": "cloud8",
+        "role": "student",
+        "courseIds": [
+            "7ebb3ac5153139bd18bc291f",
+            "64adc4faa065153559044a94",
+            "6be6399d7aa8de39dd5e98c8"
+        ]
+    },
+    {
+        "_id": "4e1797f6f424796ae0236b62",
+        "name": "William McCanless",
+        "email": "william@interzoneorganic1.com",
+        "password": "cloud8",
+        "role": "student",
+        "courseIds": [
+            "7ebb3ac5153139bd18bc291f",
+            "64adc4faa065153559044a94",
+            "6be6399d7aa8de39dd5e98c8"
+        ]
+    },
+    {
+        "_id": "59bdffa3fef27558ac200598",
+        "name": "Paul Turner",
+        "email": "paul@darksidecinema.com",
+        "password": "cloud8",
+        "role": "student",
+        "courseIds": [
+            "7ebb3ac5153139bd18bc291f",
+            "64adc4faa065153559044a94",
+            "6be6399d7aa8de39dd5e98c8"
+        ]
+    },
+    {
+        "_id": "2ae4ab12ca8a1d447dbd625e",
+        "name": "Cody Utzman",
+        "email": "cody@bodhibakery.com",
+        "password": "cloud8",
+        "role": "student",
+        "courseIds": [
+            "7ebb3ac5153139bd18bc291f",
+            "64adc4faa065153559044a94",
+            "6be6399d7aa8de39dd5e98c8"
+        ]
+    },
+    {
+        "_id": "b3a94f946d8bddf1275fc165",
+        "name": "Winco Employees",
+        "email": "employees@wincofoods.com",
+        "password": "cloud8",
+        "role": "student"
+    },
+    {
+        "_id": "d97c002d8ff6af59402257cb",
+        "name": "Philip Wilson",
+        "email": "philib@bookbin.com",
+        "password": "cloud8",
+        "role": "student"
+    },
+    {
+        "_id": "2a5140baf27722fa99c06889",
+        "name": "Fred Meyer",
+        "email": "fred@fredmeyer.com",
+        "password": "cloud8",
+        "role": "student"
+    },
+    {
+        "_id": "ab31cfaa93e9f07692782084",
+        "name": "Mike Easter",
+        "email": "mike@cyclotopia.com",
+        "password": "cloud8",
+        "role": "student"
+    },
+    {
+        "_id": "6682f18a2c1a5c913b2f16ba",
+        "name": "Casey Collett",
+        "email": "casey@oregoncoffeeandtea.com",
+        "password": "cloud8",
+        "role": "student"
+    },
+    {
+        "_id": "641a762c80be898dd35d9082",
+        "name": "John Semadeni",
+        "email": "john@corvalliscycleryinc.com",
+        "password": "cloud8",
+        "role": "student"
+    },
+    {
+        "_id": "d046d079614d9524dcf9b7c7",
+        "name": "Alex Spaeth",
+        "email": "alex@spaethlumber.com",
+        "password": "cloud8",
+        "role": "student"
+    },
+    {
+        "_id": "d6989009f1b80317c7c69093",
+        "name": "Tristan James",
+        "email": "tristan@newmorningbakery.com",
+        "password": "cloud8",
+        "role": "student"
+    },
+    {
+        "_id": "43640cfa401689521979310d",
+        "name": "Jay Chen",
+        "email": "jay@dianfudiyhotpot.com",
+        "password": "cloud8",
+        "role": "student"
+    },
+    {
+        "_id": "6c2089f6dc444b6743c181d7",
+        "name": "Admin Man",
+        "email": "admin@fredmeyer.com",
+        "password": "cloud8",
+        "role": "admin"
+    }
+]

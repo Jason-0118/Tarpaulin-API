@@ -1,0 +1,41 @@
+services:
+    db:
+        image: mongo
+        container_name: 'tarpaulin-mongodb'
+        healthcheck:
+            test: echo 'db.runCommand("ping").ok' | mongo mongo:27017/test --quiet
+            timeout: 3s
+            retries: 100
+        restart: always
+        environment:
+            MONGO_INITDB_DATABASE: 'tarpaulin'
+            MONGO_INITDB_ROOT_USERNAME: 'root'
+            MONGO_INITDB_ROOT_PASSWORD: 'hunter2'
+        ports:
+            - '27017:27017'
+        expose:
+            - '27017'
+
+    cache:
+        image: redis:latest
+        restart: always
+        container_name: 'tarpaulin-redis'
+        ports:
+            - '6379:6379'
+
+    # rabbitmq:
+    #     image: rabbitmq:3-management
+    #     container_name: 'rabbitmq'
+    #     ports:
+    #         - 5672:5672
+    #         - 15672:15672
+
+    # api:
+    #     build: .
+    #     depends_on:
+    #         db:
+    #             condition: service_healthy
+    #     ports:
+    #         - '8000:8000'
+    #     expose:
+    #         - '8000'
